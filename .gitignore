@@ -6,3 +6,5 @@ RnDiffApp/yarn.lock
 RnDiffApp/package-lock.json
 RnDiffApp/Gemfile.lock
 RnDiffApp/ios/Podfile.lock
+
+.yarn
